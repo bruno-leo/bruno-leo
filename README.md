@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bruno-leo
-- 🌱 I’m currently learning Front-end technology, like JS, Node, Angular, React...
+- 🌱 I’m currently learning Back-end technology, like Kotlin
 - 💞️ I’m currently not looking to collaborate
-- 👀 I’m interested in learning more about Front-end frameworks and mobile development
+- 👀 I’m interested in learning more about Front-end frameworks (Node, Angular, React...) and mobile development
 - 📫 How to reach me ... it can be right here
 
 <!---
